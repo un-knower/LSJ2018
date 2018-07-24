@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LSJ2018:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LSJ2018_jar</output-path>
+    <root id="archive" name="LSJ2018.jar">
+      <element id="module-output" name="lsj2018" />
+      <element id="module-output" name="lsj2018-build" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="lsj2018" />
+    </root>
+  </artifact>
+</component>
